@@ -1,0 +1,6 @@
+fitz
+pymupdf
+pdfplumber
+pypdf2
+pdfminer.six
+sentence-transformers
